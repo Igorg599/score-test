@@ -1,0 +1,180 @@
+{
+  "pizzas": [
+    {
+      "id": 1,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/2ffc31bb-132c-4c99-b894-53f7107a1441.jpg",
+      "name": "пепперони",
+      "descr": "Cоус «Мутти», сыры: «Моцарелла», «Чеддер», «Гауда», «Фета», шампиньоны, ветчина, томаты, колбаски «Пепперони».",
+      "price": 268,
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/f035c7f46c0844069722f2bb3ee9f113_584x584.jpeg",
+      "name": "сырная",
+      "descr": "Cоус «Мутти», сыры: «Моцарелла», «Чеддер», «Гауда», «Фета», шампиньоны, ветчина, томаты, колбаски «Пепперони».",
+      "price": 405,
+      "rating": 1
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/6652fec1-04df-49d8-8744-232f1032c44b.jpg",
+      "name": "маргарита",
+      "descr": "Cоус «Мутти», сыры: «Моцарелла», «Чеддер», «Гауда», «Фета», шампиньоны, ветчина, томаты, колбаски «Пепперони».",
+      "price": 422,
+      "rating": 4
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/1e1a6e80-b3ba-4a44-b6b9-beae5b1fbf27.jpg",
+      "name": "чикен",
+      "descr": "Cоус «Мутти», сыры: «Моцарелла», «Чеддер», «Гауда», «Фета», шампиньоны, ветчина, томаты, колбаски «Пепперони».",
+      "price": 320,
+      "rating": 3
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/d2e337e9-e07a-4199-9cc1-501cc44cb8f8.jpg",
+      "name": "каперола",
+      "descr": "Cоус «Мутти», сыры: «Моцарелла», «Чеддер», «Гауда», «Фета», шампиньоны, ветчина, томаты, колбаски «Пепперони».",
+      "price": 222,
+      "rating": 7
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/ec29465e-606b-4a04-a03e-da3940d37e0e.jpg",
+      "name": "майами",
+      "descr": "Cоус «Мутти», сыры: «Моцарелла», «Чеддер», «Гауда», «Фета», шампиньоны, ветчина, томаты, колбаски «Пепперони».",
+      "price": 400,
+      "rating": 3
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/2ffc31bb-132c-4c99-b894-53f7107a1441.jpg",
+      "name": "пепперони",
+      "descr": "Cоус «Мутти», сыры: «Моцарелла», «Чеддер», «Гауда», «Фета», шампиньоны, ветчина, томаты, колбаски «Пепперони».",
+      "price": 390,
+      "rating": 4
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/30367198-f3bd-44ed-9314-6f717960da07.jpg",
+      "name": "сырная",
+      "descr": "Cоус «Мутти», сыры: «Моцарелла», «Чеддер», «Гауда», «Фета», шампиньоны, ветчина, томаты, колбаски «Пепперони».",
+      "price": 890,
+      "rating": 5
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/6652fec1-04df-49d8-8744-232f1032c44b.jpg",
+      "name": "мясная",
+      "descr": "Cоус «Мутти», сыры: «Моцарелла», «Чеддер», «Гауда», «Фета», шампиньоны, ветчина, томаты, колбаски «Пепперони».",
+      "price": 500,
+      "rating": 9
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/2ffc31bb-132c-4c99-b894-53f7107a1441.jpg",
+      "name": "чикаго",
+      "descr": "Cоус «Мутти», сыры: «Моцарелла», «Чеддер», «Гауда», «Фета», шампиньоны, ветчина, томаты, колбаски «Пепперони».",
+      "price": 476,
+      "rating": 8
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/2ffc31bb-132c-4c99-b894-53f7107a1441.jpg",
+      "name": "сырная",
+      "descr": "Cоус «Мутти», сыры: «Моцарелла», «Чеддер», «Гауда», «Фета», шампиньоны, ветчина, томаты, колбаски «Пепперони».",
+      "price": 475,
+      "rating": 7
+    },
+    {
+      "id": 12,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/6652fec1-04df-49d8-8744-232f1032c44b.jpg",
+      "name": "классическая",
+      "descr": "Cоус «Мутти», сыры: «Моцарелла», «Чеддер», «Гауда», «Фета», шампиньоны, ветчина, томаты, колбаски «Пепперони».",
+      "price": 555,
+      "rating": 1
+    },
+    {
+      "id": 13,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/2ffc31bb-132c-4c99-b894-53f7107a1441.jpg",
+      "name": "сырная",
+      "descr": "Cоус «Мутти», сыры: «Моцарелла», «Чеддер», «Гауда», «Фета», шампиньоны, ветчина, томаты, колбаски «Пепперони».",
+      "price": 657,
+      "rating": 2
+    },
+    {
+      "id": 14,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/f035c7f46c0844069722f2bb3ee9f113_584x584.jpeg",
+      "name": "жюльен",
+      "descr": "Cоус «Мутти», сыры: «Моцарелла», «Чеддер», «Гауда», «Фета», шампиньоны, ветчина, томаты, колбаски «Пепперони».",
+      "price": 435,
+      "rating": 7
+    },
+    {
+      "id": 15,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/6652fec1-04df-49d8-8744-232f1032c44b.jpg",
+      "name": "барбекью",
+      "descr": "Cоус «Мутти», сыры: «Моцарелла», «Чеддер», «Гауда», «Фета», шампиньоны, ветчина, томаты, колбаски «Пепперони».",
+      "price": 654,
+      "rating": 8
+    },
+    {
+      "id": 16,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/1e1a6e80-b3ba-4a44-b6b9-beae5b1fbf27.jpg",
+      "name": "морская",
+      "descr": "Cоус «Мутти», сыры: «Моцарелла», «Чеддер», «Гауда», «Фета», шампиньоны, ветчина, томаты, колбаски «Пепперони».",
+      "price": 278,
+      "rating": 4
+    },
+    {
+      "id": 17,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/d2e337e9-e07a-4199-9cc1-501cc44cb8f8.jpg",
+      "name": "барбекью",
+      "descr": "Cоус «Мутти», сыры: «Моцарелла», «Чеддер», «Гауда», «Фета», шампиньоны, ветчина, томаты, колбаски «Пепперони».",
+      "price": 543,
+      "rating": 3
+    },
+    {
+      "id": 18,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/ec29465e-606b-4a04-a03e-da3940d37e0e.jpg",
+      "name": "баварская",
+      "descr": "Cоус «Мутти», сыры: «Моцарелла», «Чеддер», «Гауда», «Фета», шампиньоны, ветчина, томаты, колбаски «Пепперони».",
+      "price": 754,
+      "rating": 6
+    },
+    {
+      "id": 19,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/2ffc31bb-132c-4c99-b894-53f7107a1441.jpg",
+      "name": "пепперони",
+      "descr": "Cоус «Мутти», сыры: «Моцарелла», «Чеддер», «Гауда», «Фета», шампиньоны, ветчина, томаты, колбаски «Пепперони».",
+      "price": 875,
+      "rating": 1
+    },
+    {
+      "id": 20,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/30367198-f3bd-44ed-9314-6f717960da07.jpg",
+      "name": "охотничья",
+      "descr": "Cоус «Мутти», сыры: «Моцарелла», «Чеддер», «Гауда», «Фета», шампиньоны, ветчина, томаты, колбаски «Пепперони».",
+      "price": 456,
+      "rating": 7
+    },
+    {
+      "id": 21,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/6652fec1-04df-49d8-8744-232f1032c44b.jpg",
+      "name": "мехико",
+      "descr": "Cоус «Мутти», сыры: «Моцарелла», «Чеддер», «Гауда», «Фета», шампиньоны, ветчина, томаты, колбаски «Пепперони».",
+      "price": 396,
+      "rating": 3
+    },
+    {
+      "id": 22,
+      "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/2ffc31bb-132c-4c99-b894-53f7107a1441.jpg",
+      "name": "алоха",
+      "descr": "Cоус «Мутти», сыры: «Моцарелла», «Чеддер», «Гауда», «Фета», шампиньоны, ветчина, томаты, колбаски «Пепперони».",
+      "price": 476,
+      "rating": 5
+    }
+  ]
+}

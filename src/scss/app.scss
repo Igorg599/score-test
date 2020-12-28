@@ -1,0 +1,231 @@
+.wrapper {
+    width: calc(100vw - 100px);
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+    margin: 5px auto;
+    border-radius: 11px;
+    max-width: 1400px;
+}
+
+.content {
+    padding: 40px 0;
+  
+    &__title {
+      margin: 35px 0;
+    }
+  
+    &__items {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+    }
+  
+    &__top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 30px;
+    }
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  margin-top: 33px;
+  &__button {
+    display: inline-block;
+    background-color: #beb7b7;
+    border-radius: 33px;
+    padding: 3px 6px;
+    font-size: 17px;
+    margin-right: 100px;
+    min-width: 100px;
+    text-align: center;
+    cursor: pointer;
+    border: 1px solid transparent;
+    outline: none;
+    &:hover {
+      background-color: #b89898;
+    }
+  }
+  &__input {
+    display: block;
+    width: 200px;
+    height: 25px;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    margin-right: 10px;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    -webkit-transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    &:hover {
+      background-color: rgb(248, 241, 241);
+    }
+  }
+}
+
+.sort {
+    position: relative;
+    &__label {
+      display: flex;
+      align-items: center;
+  
+      svg {
+        margin-right: 8px;
+        transform: rotate(180deg);
+  
+        &.rotated {
+          transform: rotate(0deg);
+        }
+      }
+  
+      b {
+        margin-right: 8px;
+      }
+  
+      span {
+        color: orange;
+        border-bottom: 1px dashed orange;
+        cursor: pointer;
+      }
+    }
+  
+    &__popup {
+      position: absolute;
+      right: 0;
+      margin-top: 15px;
+      background: #ffffff;
+      box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.09);
+      border-radius: 10px;
+      overflow: hidden;
+      padding: 10px 0;
+      width: 180px;
+      z-index: 1000;
+  
+      ul {
+        overflow: hidden;
+        list-style-type: none;
+        li {
+          padding: 12px 7px;
+          cursor: pointer;
+  
+          &.active,
+          &:hover {
+            background: rgba(254, 95, 30, 0.05);
+          }
+  
+          &.active {
+            font-weight: bold;
+            color: orange;
+          }
+        }
+      }
+    }
+}
+
+.pizza-block {
+  position: relative;
+  width: 290px;
+  height: 340px;
+  text-align: center;
+  margin-bottom: 25px;
+  margin-top: 15px;
+  padding: 3px 3px 55px 3px;
+
+  &:hover {
+    border: 1px solid rgb(245, 224, 224);
+    border-radius: 11px;
+    padding: 2px 2px 54px 2px;
+  }
+
+  &:not(:nth-of-type(4n)) {
+    margin-right: 35px;
+  }
+
+  &__image {
+    align-items: center;
+    height: 274px;
+    padding: 10px;
+    &:hover {
+      height: 290px;
+      padding: 2px;
+      transition: 0.7s;
+    }
+  }
+
+  &__title {
+    font-size: 20px;
+    font-weight: 900;
+    letter-spacing: 1%;
+    margin-bottom: 20px;
+    margin-top: 3px;
+  }
+}
+
+.button {
+  display: inline-block;
+  background-color: orange;
+  border-radius: 30px;
+  padding: 8px 15px;
+  min-width: 100px;
+  text-align: center;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out, border-color 0.3s ease-in-out;
+  border: 1px solid transparent;
+  &:hover {
+    background-color: rgb(159, 177, 135);
+  }
+}
+
+.product {
+  margin: 20px 0;
+  display: block;
+  text-align: center;
+  
+  h2 {
+    font-size: 25px;
+    text-align: center;
+  }
+  &__descr {
+    font-size: 20px;
+    margin-top: 15px;
+    text-align: center;
+  }
+  &__price {
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 15px;
+    text-align: center;
+  }
+  &__button {
+    margin: 0 0 0 700px;
+    background-color: rgb(167, 56, 74);
+    border-radius: 30px;
+    padding: 8px 15px;
+    min-width: 100px;
+    font-size: 15px;
+    font-weight: 600;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out, border-color 0.3s ease-in-out;
+    border: 1px solid transparent;
+    &:hover {
+      background-color: rgb(108, 82, 155);
+    }
+  }
+}
+
+.product img {
+    height: 300px;
+}
