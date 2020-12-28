@@ -37,7 +37,7 @@ function Catalog() {
     const onValueChange = (event) => {
       setTitle(event.target.value.replace(/[^а-я]/g, ''));
       console.log(title);
-  }
+    }
 
     return(
       <div className="container">
