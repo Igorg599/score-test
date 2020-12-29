@@ -15,6 +15,7 @@
     }
   
     &__items {
+      overflow: auto;
       display: flex;
       flex-wrap: wrap;
       justify-content: flex-start;
@@ -228,4 +229,37 @@
 
 .product img {
     height: 300px;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  padding-left: 0;
+  list-style: none;
+  border-radius: .25rem;
+  dl, ol, ul {
+    margin-top: 0;
+    margin-bottom: 1rem;
+  }
+  li {
+    display: list-item;
+  }
+}
+
+.page-link {
+  margin: 0;
+  background-color: rgb(191, 228, 189);
+  border-radius: 30px;
+  padding: 8px 15px;
+  min-width: 10px;
+  outline: none;
+  font-size: 15px;
+  font-weight: 600;
+  text-align: center;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out, border-color 0.3s ease-in-out;
+  border: 1px solid transparent;
+  &:hover {
+    background-color: rgb(108, 82, 155);
+  }
 }
